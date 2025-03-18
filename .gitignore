@@ -1,0 +1,6 @@
+# Ignore Node.js modules
+sentiment-backend/node_modules/
+sentiment-frontend/node_modules/
+
+#Ignore venv
+sentiment-analysis/venv/
